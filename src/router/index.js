@@ -2,7 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 
 // @ts-ignore
-import HomePage from "../views/HomePage.vue";
+import HomePage from "../views/TEST.vue";
 // @ts-ignore
 import Categories from "../views/CategoriesPage.vue";
 // @ts-ignore
